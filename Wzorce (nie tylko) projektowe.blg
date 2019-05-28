@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d (TeX Live 2018/Arch Linux)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Wzorce (nie tylko) projektowe.aux
+The style file: unsrt.bst
+Database file #1: bibliography.bib
+I was expecting a `,' or a `}'---line 9 of file bibliography.bib
+ :  title = "Antywzorzec projektowy"
+ :                                  m
+I'm skipping whatever remains of this entry
+Warning--entry type for "PankajKumar" isn't style-file defined
+--line 17 of file bibliography.bib
+I was expecting a `,' or a `}'---line 20 of file bibliography.bib
+ :  
+ :  url = "https://www.journaldev.com/1827/java-design-patterns-example-tutorial?utm_source=newsletter&utm_medium=sendy&utm_campaign=emails"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 28 of file bibliography.bib
+ :  
+ :  title = "Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty publisher in RohitJosh
+Warning--empty year in RohitJosh
+Too many commas in name 1 of "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides" for entry GoF
+while executing---line 944 of file unsrt.bst
+Warning--empty title in GoF
+Warning--empty publisher in GoF
+Warning--empty year in GoF
+You've used 3 entries,
+            1791 wiz_defined-function locations,
+            456 strings with 3793 characters,
+and the built_in function-call counts, 414 in all, are:
+= -- 23
+> -- 12
+< -- 0
++ -- 6
+- -- 3
+* -- 19
+:= -- 63
+add.period$ -- 5
+call.type$ -- 3
+change.case$ -- 1
+chr.to.int$ -- 0
+cite$ -- 8
+duplicate$ -- 25
+empty$ -- 57
+format.name$ -- 3
+if$ -- 90
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 4
+newline$ -- 14
+num.names$ -- 3
+pop$ -- 25
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 11
+stack$ -- 0
+substring$ -- 0
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 3
+width$ -- 4
+write$ -- 21
+(There were 4 error messages)
